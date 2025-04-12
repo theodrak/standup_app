@@ -72,3 +72,5 @@ gem "local_time"
 
 gem "rolify"
 gem "pundit"
+
+gem "prefixed_ids"
